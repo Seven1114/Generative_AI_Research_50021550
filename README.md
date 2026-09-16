@@ -1,20 +1,8 @@
-# Using Generative AI Tools - Boon or Bane
+Q1. Storage and Accessibility:
+Efficient file storage and organisation is important because research projects generate diverse data types across multiple team members. Without a clear structure, finding specific files becomes time-consuming, and there is a higher risk of data loss, version confusion, or duplication.
 
-## Project Overview
-This repository contains research data, documents, and analysis files for the study on "Using Generative AI Tools - Boon or Bane."
+Q2. File Storage Methods:
+Literature can be stored in reference management tools or shared cloud drives. Code and scripts are best managed with version control on GitHub. Interview transcripts and consent forms require special access controls as they contain participants' personal information and must comply with ethics requirements.
 
-## Folder Structure
-- `Literature_review/` - Journal articles, conference papers, books, and media reports
-- `quantitative_analysis/` - Survey data (CSV, Excel), Python scripts, and analysis reports
-- `qualitative_analysis/` - Interview transcripts, consent forms, and qualitative analysis reports
-- `drafts and reports/` - Research proposals, final reports, and presentation posters
-- `misc/` - Information sheets, photos, and other media files
-
-## How to Contribute
-1. Fork this repository
-2. Create a new branch for your changes
-3. Make your modifications and commit with a clear message
-4. Submit a pull request for review
-
-## Access Controls
-Interview transcripts and consent forms contain sensitive participant data. Access to these files should be restricted to authorised team members only.
+Q3. Naming Convention:
+Good naming conventions make files easy to identify, sort, and retrieve without needing to open them. Consistent names using dates (YYYY-MM-DD), descriptive keywords, and version numbers help team members quickly understand file contents and avoid confusion from duplicates or ambiguous names.
